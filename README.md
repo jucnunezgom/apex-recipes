@@ -1,3 +1,3 @@
 # Apex Recipes
 
-Website for showcasing your recipes.
+Website for backing up your recipes.
