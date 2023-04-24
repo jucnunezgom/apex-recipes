@@ -1,3 +1,2 @@
 # Apex Recipes
-
-Website for backing up your recipes.
+Service for backing up your recipes.
