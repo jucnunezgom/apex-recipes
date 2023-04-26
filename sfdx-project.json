@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "Practice",
+  "name": "apex-recipes",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "56.0"
